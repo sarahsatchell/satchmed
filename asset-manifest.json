@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f3810f0.css",
+    "main.js": "/static/js/main.f40111ef.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/satch.png": "/static/media/satch.2726a5f3bcc44ae944c9.png",
+    "static/media/david.png": "/static/media/david.41db076be9aad9e85584.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.06aa0ac6baed0c40cf18.jpg",
+    "static/media/logo.png": "/static/media/logo.fd015d07a76b14b1072a.png",
+    "static/media/SatchMed_Resume.pdf": "/static/media/SatchMed_Resume.8fb9cbbd702e93694adc.pdf",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.8f3810f0.css.map": "/static/css/main.8f3810f0.css.map",
+    "main.f40111ef.js.map": "/static/js/main.f40111ef.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f3810f0.css",
+    "static/js/main.f40111ef.js"
+  ]
+}
